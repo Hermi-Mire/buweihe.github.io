@@ -21,6 +21,6 @@ Education
 
 **Others**
 ------
-- Loves all kinds of sports. Proficient in badminton, recently got hooked on snooker, just learned how to swim and in preparation for license to enter deep zone🏊.
+- Loves all kinds of sports. Proficient in badminton🏸, recently got hooked on snooker🎱, just learned how to swim and in preparation for license to enter deep zone🏊.
 - I play guitar to relax, some satisfying pieces [Mia & Sebastian's Theme clip](https://www.bilibili.com/video/BV1PR4y1y7Jk/?share_source=copy_web&vd_source=2aebbed19ead036153b1288dca190b7d), [彼方へ](https://www.bilibili.com/video/BV1T5411G7XR/?share_source=copy_web&vd_source=2aebbed19ead036153b1288dca190b7d)
 <iframe src="//player.bilibili.com/player.html?aid=348633524&bvid=BV1PR4y1y7Jk&cid=921993103&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
