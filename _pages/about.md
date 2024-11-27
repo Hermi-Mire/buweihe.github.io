@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I recently received my MSc degree in Data Science from the University of Glasgow with distinction. It's a beautiful school in Scotland that is said to have been the architectural inspiration for Harry Potter. My master's thesis research was on optimizing document expansion using reinforcement learning, supervised by Dr [Sean MacAvaney](https://macavaney.us/) and Professor [Craig Macdonald](https://www.dcs.gla.ac.uk/~craigm/).
+After a meandering but meaningful gap year, I'm back at my alma mater here in BUPT diving into the unknown world of Ph.D. supervised by Professor [He zhaofeng](https://teacher.bupt.edu.cn/zhaofenghe/zh_CN/index.htm). I received my MSc degree in Data Science from the University of Glasgow with distinction in 2023. It's a beautiful school in Scotland that is said to have been the architectural inspiration for Harry Potter. My master's thesis research was on optimizing document expansion using reinforcement learning, supervised by Dr [Sean MacAvaney](https://macavaney.us/) and Professor [Craig Macdonald](https://www.dcs.gla.ac.uk/~craigm/). [Updated on 2024/11/27]
 
 
 Education
